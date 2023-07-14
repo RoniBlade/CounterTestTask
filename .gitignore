@@ -1,0 +1,67 @@
+# IntelliJ IDEA
+.idea/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Compiled files
+target/
+bin/
+out/
+
+# Dependency directories
+lib/
+libs/
+jars/
+
+# Logs
+log/
+logs/
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Database
+hsqldb/
+
+# IDE-specific files
+*.iml
+*.ipr
+*.iws
+
+# Maven specific files
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle specific files
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Spring Boot specific files
+spring-boot-starter-app/target/
+spring-boot-starter-app/build/
+
+# Spring Tool Suite (STS)
+.apt_generated/
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+
+# Miscellaneous
+.DS_Store
